@@ -1,1 +1,0 @@
-# Cotizador-Detalle-de-cotizacion
